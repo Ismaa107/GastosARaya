@@ -12,6 +12,6 @@ Versiones instaladas en cada equipo. Deben coincidir en la versión mayor
 | IntelliJ IDEA | 2025.3.5 (gratuita) | | Backend |
 | VS Code | 1.141.0 | | Frontend, con EditorConfig |
 | Git | 2.45.1.windows.1 | | |
-| Docker | (paso 0.6) | | |
-| Postman | 12.30.6-ui-261002-0231 | | |
+| Docker | Docker Desktop 4.99.0 (Engine 29.9.3) | | Linux: docker.io + docker-compose-v2 |
+| Postman | 12.30.6-ui-261002-0231 | | Linux: Flatpak |
 | Sistema | Windows 11 | (paso 0.8) | |
